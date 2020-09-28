@@ -1,8 +1,3 @@
-# Ben's Creation-Hub
-Welcome to my site, this is a hub that hosts content that I have created either for classes or during my free time. 
-
-## Sections:
-- [3D-modeling in Blender](https://argynarg.github.io/BenDigit100/blender)
-- [3D-modeling in Maya](https://argynarg.github.io/BenDigit100/maya)
-- [Writing](https://argynarg.github.io/BenDigit100/writing)
-- [Resume](https://argynarg.github.io/BenDigit100/resume)
+# Home
+## [resume](resume.md) [3-D Modeling](blender.md) [Reflection](reflection.md)
+Welcome to my website! This website is a hub for projects I have worked on in the past, currently consisting of 3-D modeling projects as well as my resume.
