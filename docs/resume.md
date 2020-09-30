@@ -10,13 +10,13 @@ Penn State Behrend DIGIT Program
 internship at Firaxis Games
 
 ### Coding Experience:
-C++
-C#
-Java
-HTML
-(currently in classes for XML)
+- C++
+- C#
+- Java
+- HTML
+- (currently in classes for XML)
 
 ### Other miscellaneous experience:
-3-D modelling
-Game Design
+- 3-D modelling
+- Game Design
 
